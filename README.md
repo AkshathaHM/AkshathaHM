@@ -1,14 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently building full-stack web apps and sharpening my Java & React skills
-
-🌱 I’m currently learning advanced Spring Boot, React patterns, and system design
-
-👯 I’m looking to collaborate on impactful open-source full-stack or Java/Python projects
-
-🤔 I’m looking for help with optimizing large-scale APIs and deployment strategies
-
-💬 Ask me about Java full-stack, React dashboards, food delivery apps, or e-commerce platforms
+🔭 I'm looking for software development role
 
 📫 How to reach me: akshathahmohan@gmail.com | Connect on LinkedIn
 
