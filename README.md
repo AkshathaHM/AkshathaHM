@@ -4,15 +4,11 @@
 
 📫 How to reach me: akshathahmohan@gmail.com | Connect on LinkedIn
 
-😄 Pronouns: she/her
-
-⚡ Fun fact: From diploma in Electrical & Electronics to passionate CS engineer — loving the switch to code!
-
 ## 🌐 Socials / Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AkshathaHM) <!-- Replace with your real LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatha-h-m-596a5a29a/) <!-- Replace with your real LinkedIn URL -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshathahm.github.io/portfolio_website/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshathaHM)
 
