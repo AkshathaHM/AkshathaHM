@@ -1,12 +1,12 @@
-💫 About Me
+# 💫 About Me:
 
 🔭 I'm currently building full-stack web apps and sharpening my Java & React skills
 
-🌱 I'm currently learning advanced Spring Boot, React patterns, and system design
+🌱 I’m currently learning advanced Spring Boot, React patterns, and system design
 
-👯 I'm looking to collaborate on open-source full-stack or Java/Python projects
+👯 I’m looking to collaborate on impactful open-source full-stack or Java/Python projects
 
-🤔 I'm looking for help with optimizing large-scale APIs and deployment strategies
+🤔 I’m looking for help with optimizing large-scale APIs and deployment strategies
 
 💬 Ask me about Java full-stack, React dashboards, food delivery apps, or e-commerce platforms
 
@@ -16,77 +16,82 @@
 
 ⚡ Fun fact: From diploma in Electrical & Electronics to passionate CS engineer — loving the switch to code!
 
-🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshathahm)  <!-- replace with your real LinkedIn -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  <!-- add your portfolio -->
+## 🌐 Socials / Links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AkshathaHM) <!-- Replace with your real LinkedIn URL -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link-here)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshathaHM)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshathahmohan@gmail.com)
 
-💻 Tech Stack
+## 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/reference/react)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
-📊 GitHub Stats
+Core CS: OOPS • DBMS • Data Structures & Algorithms • RESTful APIs • Role-Based Access Control • Full-Stack Development
 
+## 📊 GitHub Stats:
+
+<!-- Replace with your username and preferred theme (radical/dark/etc.) -->
 ![Akshatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=radical)
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=radical&no-frame=true&margin-w=15)
 
-💼 Featured Projects
+## 💼 Featured Projects:
 
 **SalesSavvy** — Java Full-Stack E-Commerce Platform  
-React frontend + Spring Boot backend + MySQL | Secure auth, cart, orders  
-[View Repo →](https://github.com/AkshathaHM/SalesSavvy)  <!-- update link -->
+React frontend + Spring Boot backend + MySQL — secure auth, cart, orders  
 
 **TaskFocus** — Interactive React Task Management Dashboard  
-CRUD + real-time UI + React Hooks + localStorage  
-[View Repo →](https://github.com/AkshathaHM/TaskFocus)
+CRUD, real-time updates, Hooks + localStorage  
 
 **MealMate** — Python Full-Stack Food Delivery Platform  
-Django + SQLite | Menus, orders, dashboards  
-[View Repo →](https://github.com/AkshathaHM/MealMate)
+Django + SQLite — menus, orders, dashboards  
 
-**HR Automation System** (Internship @ RDL Technologies)  
-Java + React + Spring Boot + MySQL | Role-based access + secure APIs
+**HR Automation System** (Internship @ RDL Technologies, 2025)  
+Java + React + Spring Boot + MySQL — role-based access, secure APIs
 
 Popular repositories  
-*(Pin your top ones like SalesSavvy, TaskFocus, MealMate — they appear here automatically)*
+Loading... *(Pin your best repos like SalesSavvy, TaskFocus, MealMate on your profile for them to show here!)*
 
-*(Your contribution graph, activity calendar, and stats will show below automatically like in the reference — GitHub renders the graph, legend (Less → More), and monthly activity dynamically.)*
+*(Your contribution graph, calendar heatmap, and activity will auto-appear below like rinshadkv's — with months, days of week, color scale Less → More, and year tabs. GitHub fills it dynamically based on your commits.)*
 
 ---
 
-This version gives a very similar dark-theme-friendly, emoji-started, badge-heavy look:
-- About Me mirrors the bullet + emoji fun style.
-- Tech stack uses for-the-badge shields for that colorful rectangle grid effect (common in profiles like the one you showed).
-- Socials as badge buttons for visual pop.
-- Stats/trophies as standard embeds.
+Less · No contributions. · Low contributions. · Medium-low contributions. · Medium-high contributions. · High contributions. · More
 
-**Tips to match even closer**:
-- Pin 4–6 repositories on your profile page (via GitHub settings → Customize pins).
-- If you want more custom colors/icons, tweak the shields.io links (visit https://shields.io/ to generate).
-- For donation: Add something like  
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+Contribution activity  
+March 2026  
+AkshathaHM has no activity yet for this period. *(updates automatically)*
 
-Let me know if you'd like more tweaks, like adding a header image, changing theme colors (e.g., to dracula or onedark), or including your internship/certifications more prominently! 🚀
+Show more activity...
+
+Feel free to tweak badge colors/themes (visit https://shields.io to generate more), add donation if you want (like Buy Me a Coffee), or update stats links. Pin 4–6 repos to make the popular section pop. This should look very similar in style and size to the reference — fun, colorful, and professional! 🚀 Let me know for any changes.
