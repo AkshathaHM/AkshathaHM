@@ -38,5 +38,11 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
-Core CS: OOPS • DBMS • Data Structures & Algorithms • RESTful APIs • Role-Based Access Control • Full-Stack Development
+Core CS: OOPS • DBMS • Data Structures & Algorithms • RESTful APIs • Role-Based Access Control • Full-Stack Development.
+
+## 📊 GitHub Stats:
+
+<img src="https://github.com/AkshathaHM/AkshathaHM/raw/main/stats/github-stats.svg" width="48%" align="left" />
+<img src="https://github.com/AkshathaHM/AkshathaHM/raw/main/stats/top-langs.svg" width="48%" align="left" />
+<br clear="both" />
 
