@@ -4,15 +4,14 @@
 
 📫 How to reach me: akshathahmohan@gmail.com | Connect on LinkedIn
 
-## 🌐 Socials / Links:
+## 🌐 Socials :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatha-h-m-596a5a29a/) <!-- Replace with your real LinkedIn URL -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatha-h-m-596a5a29a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshathahm.github.io/portfolio_website/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshathaHM)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshatha__mohan_/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshathahmohan@gmail.com)
+
 
 ## 💻 Tech Stack:
 
