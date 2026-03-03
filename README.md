@@ -2,7 +2,7 @@
 
 🔭 I'm looking for software development role
 
-📫 How to reach me: akshathahmohan@gmail.com | Connect on LinkedIn
+📫 How to reach me: akshathahmohan@gmail.com | Connect on [LinkedIn](https://www.linkedin.com/in/akshatha-h-m-596a5a29a)
 
 ## 💻 Tech Stack:
 
