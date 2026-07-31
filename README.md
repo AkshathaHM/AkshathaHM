@@ -17,7 +17,6 @@
 
   <br/>
 
-  <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=AkshathaHM&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
 
 </div>
@@ -49,33 +48,24 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.sql.org"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
-
-  <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
   <a href="https://react.dev/reference/react"><img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Hooks"/></a>
   <a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
-
-  <!-- Backend -->
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
   <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
   <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/></a>
   <a href="https://docs.oracle.com/javase/tutorial/jdbc/"><img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/></a>
   <a href="https://maven.apache.org"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/></a>
-
-  <!-- Databases -->
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
   <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
   <a href="https://en.wikipedia.org/wiki/Database"><img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS"/></a>
-
-  <!-- Tools -->
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
@@ -137,7 +127,7 @@
   <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-> **Note:** Snake animation needs a one-time setup (GitHub Action). Tell me if you want the setup steps.
+> **Note:** Snake animation requires a one-time GitHub Action setup. Tell me if you want the steps.
 
 ---
 
