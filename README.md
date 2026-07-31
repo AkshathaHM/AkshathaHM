@@ -121,8 +121,6 @@
 
 ---
 
-### 🐍 Snake Animation
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/AkshathaHM/AkshathaHM/blob/output/github-contribution-grid-snake.svg)
