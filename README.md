@@ -58,19 +58,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshathaHM&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkshathaHM&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
