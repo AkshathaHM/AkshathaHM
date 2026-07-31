@@ -76,85 +76,17 @@
 `OOPS` • `DBMS` • `Data Structures & Algorithms` • `RESTful APIs` • `Role-Based Access Control` • `Full-Stack Development`
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 0 auto;">
-    <tr>
-      <td width="48%" style="padding: 15px;">
-        <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #ff006e; border-radius: 15px; padding: 25px; position: relative;">
-          <h3 style="color: #ff006e; margin-top: 0; font-size: 18px; text-align: left;">⭐ Akshatha HM's GitHub Stats</h3>
-          <div style="text-align: left; color: #8b949e; font-size: 14px; line-height: 2; margin-bottom: 20px;">
-            <div>⭐ <strong style="color: #58A6FF;">Total Stars Earned:</strong> <span style="float: right; color: #fff;">7</span></div>
-            <div>📊 <strong style="color: #58A6FF;">Total Commits (2021):</strong> <span style="float: right; color: #fff;">56</span></div>
-            <div>🔀 <strong style="color: #58A6FF;">Total PRs:</strong> <span style="float: right; color: #fff;">4</span></div>
-            <div>🔔 <strong style="color: #58A6FF;">Total Issues:</strong> <span style="float: right; color: #fff;">1</span></div>
-            <div>📦 <strong style="color: #58A6FF;">Contributed to:</strong> <span style="float: right; color: #fff;">3</span></div>
-          </div>
-          <div style="position: absolute; top: 20px; right: 20px; width: 80px; height: 80px; border: 3px solid #ff006e; border-radius: 50%; display: flex; align-items: center; justify-content: center; background: rgba(255, 0, 110, 0.1);">
-            <div style="font-size: 32px; font-weight: bold; color: #ff006e;">A+</div>
-          </div>
-        </div>
-      </td>
-      <td width="48%" style="padding: 15px;">
-        <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #ff006e; border-radius: 15px; padding: 25px;">
-          <h3 style="color: #ff006e; margin-top: 0; font-size: 18px;">📊 Most Used Languages</h3>
-          <div style="text-align: left; font-size: 13px; color: #8b949e;">
-            <div style="margin: 12px 0;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <span>🐍 <strong>Python</strong></span>
-                <span style="color: #3776ab; font-weight: bold;">35.23%</span>
-              </div>
-              <div style="background: #0d1117; border-radius: 4px; height: 8px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #3776ab 0%, #3776ab 35.23%); height: 100%; border-radius: 4px; transition: width 0.3s;"></div>
-              </div>
-            </div>
-            <div style="margin: 12px 0;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <span>☕ <strong>Java</strong></span>
-                <span style="color: #ED8B00; font-weight: bold;">26.42%</span>
-              </div>
-              <div style="background: #0d1117; border-radius: 4px; height: 8px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #ED8B00 0%, #ED8B00 26.42%); height: 100%; border-radius: 4px;"></div>
-              </div>
-            </div>
-            <div style="margin: 12px 0;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <span>📝 <strong>JavaScript</strong></span>
-                <span style="color: #F7DF1E; font-weight: bold;">20.48%</span>
-              </div>
-              <div style="background: #0d1117; border-radius: 4px; height: 8px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #F7DF1E 0%, #F7DF1E 20.48%); height: 100%; border-radius: 4px;"></div>
-              </div>
-            </div>
-            <div style="margin: 12px 0;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <span>🎨 <strong>CSS</strong></span>
-                <span style="color: #1572B6; font-weight: bold;">12.37%</span>
-              </div>
-              <div style="background: #0d1117; border-radius: 4px; height: 8px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #1572B6 0%, #1572B6 12.37%); height: 100%; border-radius: 4px;"></div>
-              </div>
-            </div>
-            <div style="margin: 12px 0;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                <span>🔧 <strong>HTML</strong></span>
-                <span style="color: #E34F26; font-weight: bold;">5.50%</span>
-              </div>
-              <div style="background: #0d1117; border-radius: 4px; height: 8px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #E34F26 0%, #E34F26 5.50%); height: 100%; border-radius: 4px;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
-### 🔥 Streak Stats & Activity
+### 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=AkshathaHM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -162,79 +94,21 @@
 
 <br/>
 
-### 📈 GitHub Statistics
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-### 🏆 GitHub Achievements
-
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #ffd700; border-radius: 15px; padding: 30px; margin: 20px auto; max-width: 900px;">
-  <h3 style="color: #ffd700; margin-top: 0; text-align: center; font-size: 22px;">🏆 GitHub Trophies & Recognition</h3>
-  <p style="color: #8b949e; margin: 15px 0; text-align: center; font-size: 13px;">Achievements unlocked through contributions and collaborations</p>
-  
-  <table style="width: 100%; border-collapse: collapse; margin-top: 25px;">
-    <tr style="text-align: center;">
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">🌟</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">MultiLanguage</div>
-        <div style="color: #8b949e; font-size: 11px;">Rainbow Lang User</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">⭐</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Stars</div>
-        <div style="color: #8b949e; font-size: 11px;">High Stargazer</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">💻</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Commit</div>
-        <div style="color: #8b949e; font-size: 11px;">Ultra Committer</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">👥</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Followers</div>
-        <div style="color: #8b949e; font-size: 11px;">Active User</div>
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">🔀</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">PullRequest</div>
-        <div style="color: #8b949e; font-size: 11px;">Hyper PR User</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">📚</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Repositories</div>
-        <div style="color: #8b949e; font-size: 11px;">Hyper Repo Creator</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">⚠️</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Issues</div>
-        <div style="color: #8b949e; font-size: 11px;">High Issuer</div>
-      </td>
-      <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; margin: 5px; background: rgba(255, 215, 0, 0.05);">
-        <div style="font-size: 32px; margin-bottom: 8px;">🎖️</div>
-        <div style="color: #58A6FF; font-size: 12px; font-weight: bold;">Achievements</div>
-        <div style="color: #8b949e; font-size: 11px;">Trophy Collector</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshathaHM&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshathaHM&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
+<br/>
 
 ### 📂 Featured Projects
 
@@ -247,16 +121,13 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Snake Animation
 
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border: 2px solid #58A6FF; border-radius: 15px; padding: 30px; margin: 20px auto; max-width: 900px;">
-  <h3 style="color: #58A6FF; margin-top: 0; text-align: center; font-size: 22px;">🐍 Watch My Contributions</h3>
-  <p style="color: #8b949e; margin: 15px 0; text-align: center; font-size: 13px;">A dynamic visualization of my GitHub contributions over time</p>
-  <div style="margin-top: 20px; text-align: center; background: rgba(0, 0, 0, 0.3); border-radius: 10px; padding: 15px;">
-    <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; border-radius: 8px;"/>
-  </div>
-  <p style="color: #8b949e; margin: 15px 0 0 0; text-align: center; font-size: 11px; font-style: italic;">💡 Tip: This animation updates automatically with your GitHub contributions</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+> **Note:** Snake animation needs a one-time GitHub Action setup. Tell me if you want the steps.
 
 ---
 
