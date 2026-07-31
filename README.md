@@ -79,9 +79,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=false" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/AkshathaHM?style=for-the-badge&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AkshathaHM?style=for-the-badge&label=Total%20Stars" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-count/AkshathaHM?style=for-the-badge&label=Repositories" alt="Repositories" />
 </div>
+
+<p align="center">
+  <strong>Languages used in my repositories</strong><br/>
+  Java • JavaScript • Python • CSS • HTML
+</p>
 
 <br/>
 
