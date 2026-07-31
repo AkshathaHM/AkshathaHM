@@ -79,8 +79,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshathaHM&theme=github_dark" alt="GitHub Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshathaHM&theme=github_dark" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=false" alt="Top Languages" />
 </div>
 
 <br/>
