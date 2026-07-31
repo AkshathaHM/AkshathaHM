@@ -123,11 +123,9 @@
 
 ### 🐍 Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+## 🐍 Contribution Snake
 
-> **Note:** Snake animation needs a one-time GitHub Action setup. Tell me if you want the steps.
+![Snake animation](https://github.com/AkshathaHM/AkshathaHM/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
