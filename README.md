@@ -55,36 +55,48 @@ or connect with me on LinkedIn:
 </p>
 
 ---
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" alt="Languages"/>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
 </p>
 
 ### 🌐 Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,spring,django" alt="Frameworks"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="Redux"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
+  <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django"/></a>
+  <a href="https://hibernate.org" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/></a>
+  <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/></a>
 </p>
 
 ### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode" alt="Tools"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://maven.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
+  <a href="https://www.eclipse.org/ide/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/></a>
 </p>
 
 ### 📚 Core CS
@@ -101,7 +113,7 @@ or connect with me on LinkedIn:
 - Adaptability
 - Time Management
 - Team Collaboration
-
+  
 ---
 
 ### 📊 GitHub Stats
