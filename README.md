@@ -1,38 +1,35 @@
 <div align="center">
 
-# <span style="color:#58A6FF;">Akshatha H M</span>
+# Hi there, I'm Akshatha H M 👋
 
-### 💻 Entry-Level Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Developer;Python+Developer;Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;React+Developer" alt="Typing SVG" />
+### Entry-Level Software Developer | Java • Python • Spring Boot • React
 
 <br>
 
-### 👋 About Me
+</div>
 
-🎯 Looking for **Entry-Level Software Development Opportunities**
+---
 
-💙 Passionate about building scalable applications using **Java, Python, Spring Boot, React, and REST APIs**
+### 🚀 About Me
 
-🚀 Interested in **Backend Development**, **Full Stack Development**, **Java Development**, and **Python Development**
+Entry-level Software Developer passionate about building scalable and efficient web applications.  
+Skilled in **Java, Python, Spring Boot, React, and REST APIs**.  
+Currently looking for **Entry-Level Software Development Opportunities**.
 
-📩 **If your company has any openings, feel free to email me at**
+Interested in **Backend Development**, **Full Stack Development**, **Java Development**, and **Python Development**.
 
+📩 **If your company has any openings, feel free to email me at**  
 **📧 [akshathahmohan@gmail.com](mailto:akshathahmohan@gmail.com)**
 
-or
-
-**Connect with me on LinkedIn**
+or connect with me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/akshatha-h-m-596a5a29a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AkshathaHM&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
 
 ---
 
