@@ -2,9 +2,13 @@
 
 # Hi there, I'm Akshatha H M 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Developer;Python+Developer;Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;React+Developer" alt="Typing SVG" />
+
 ### Entry-Level Software Developer | Java • Python • Spring Boot • React
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=AkshathaHM&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -14,6 +18,7 @@
 
 Entry-level Software Developer passionate about building scalable and efficient web applications.  
 Skilled in **Java, Python, Spring Boot, React, and REST APIs**.  
+
 Currently looking for **Entry-Level Software Development Opportunities**.
 
 Interested in **Backend Development**, **Full Stack Development**, **Java Development**, and **Python Development**.
@@ -26,10 +31,6 @@ or connect with me on LinkedIn:
 <a href="https://www.linkedin.com/in/akshatha-h-m-596a5a29a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AkshathaHM&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 ---
 
@@ -54,119 +55,39 @@ or connect with me on LinkedIn:
 </p>
 
 ---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
 <p>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" alt="Languages"/>
 </p>
-
----
 
 ### 🌐 Web Technologies
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Web Technologies"/>
 </p>
-
----
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-  </a>
-
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux"/>
-  </a>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/>
-  </a>
-
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django"/>
-  </a>
-
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  </a>
-
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,redux,spring,django" alt="Frameworks"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
 </p>
-
----
 
 ### 🗄 Databases
 <p>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
-  </a>
-
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
-
----
 
 ### 🛠 Tools & Platforms
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-  </a>
-
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Maven"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-  </a>
-
-  <a href="https://eclipseide.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode" alt="Tools"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
 </p>
 
----
-
 ### 📚 Core CS
-
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Database Management Systems (DBMS)
@@ -174,10 +95,7 @@ or connect with me on LinkedIn:
 - Authentication & Authorization (JWT)
 - Full-Stack Development
 
----
-
 ### 🤝 Soft Skills
-
 - Problem Solving
 - Quick Learner
 - Adaptability
@@ -185,10 +103,12 @@ or connect with me on LinkedIn:
 - Team Collaboration
 
 ---
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -202,7 +122,7 @@ or connect with me on LinkedIn:
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/main/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -213,6 +133,7 @@ or connect with me on LinkedIn:
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 🛒 SalesSavvy – Modular E-Commerce Platform
