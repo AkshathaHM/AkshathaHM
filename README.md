@@ -141,7 +141,7 @@ or
 
 Scalable full-stack e-commerce platform with microservices-style modules for Authentication, Products, Cart, Orders & Payments. Includes secure JWT auth, Razorpay integration, and optimized database queries.
 
-🔗 [GitHub Repository](https://github.com/AkshathaHM) &nbsp; • &nbsp; 🌐 Live Demo available on request
+🔗 [GitHub Repository](https://github.com/AkshathaHM/E-Commerce-JavaFullStack-Project) &nbsp; • &nbsp; 🌐 Live Demo available on request
 
 ---
 
@@ -150,7 +150,7 @@ Scalable full-stack e-commerce platform with microservices-style modules for Aut
 
 Complete food ordering application featuring user authentication, menu management, cart functionality, real-time order tracking, and an admin dashboard. Integrated Razorpay for secure payments.
 
-🔗 [GitHub Repository](https://github.com/AkshathaHM) &nbsp; • &nbsp; 🌐 Live Demo available on request
+🔗 [GitHub Repository](https://github.com/AkshathaHM/meal-buddy) &nbsp; • &nbsp; 🌐 Live Demo available on request
 
 ---
 
@@ -159,7 +159,7 @@ Complete food ordering application featuring user authentication, menu managemen
 
 Responsive single-page task management app with full CRUD operations, React Hooks, reusable components, and real-time progress tracking.
 
-🔗 [GitHub Repository](https://github.com/AkshathaHM) &nbsp; • &nbsp; 🌐 Live Demo available on request
+🔗 [GitHub Repository](https://github.com/AkshathaHM/TaskFocus) &nbsp; • &nbsp; 🌐 Live Demo available on request
 
 ---
 
