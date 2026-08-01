@@ -80,8 +80,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api?username=AkshathaHM&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api/top-langs/?username=AkshathaHM&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
