@@ -94,9 +94,8 @@
 <br/>
 
 ### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
 </div>
 
 <br/>
