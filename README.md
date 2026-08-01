@@ -105,12 +105,10 @@ or
 - Team Collaboration
 
 ---
-
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -124,7 +122,7 @@ or
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/main/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>
