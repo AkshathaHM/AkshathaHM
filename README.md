@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+Developer;Python+Developer;Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;React+Developer" alt="Typing SVG" />
 
-### Entry-Level Software Developer | Java • Python • Spring Boot • React
+### Entry-Level Software Developer | Java • Python • Spring Boot • Django • React
 
 <br>
 
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 Entry-level Software Developer passionate about building scalable and efficient web applications.  
-Skilled in **Java, Python, Spring Boot, React, and REST APIs**.  
+Skilled in **Java, Python, Spring Boot, Hibernate, Django, React, and REST APIs**.  
 
 Currently looking for **Entry-Level Software Development Opportunities**.
 
@@ -104,12 +104,12 @@ or connect with me on LinkedIn:
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api?username=AkshathaHM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-plum-ten-4ha9df7o5z.vercel.app/api/top-langs/?username=AkshathaHM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
 
 <br/>
 
@@ -120,9 +120,10 @@ or connect with me on LinkedIn:
 
 <br/>
 
+
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshathaHM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/AkshathaHM/AkshathaHM/main/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>
