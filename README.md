@@ -163,7 +163,7 @@ Developed a digital art protection platform combining AI-based detection, stegan
 - Built a complete buyer workflow with wallet connectivity and secure digital art downloads.
 - Integrated decentralized file storage using IPFS and smart contracts using Solidity and Hardhat.
 
-🔗 [GitHub Repository](https://github.com/AkshathaHM/Digital-Art-Protection-AI-Steganography-Blockchain) &nbsp; • &nbsp; 🌐 [Live Demo](https://www.youtube.com/watch?v=YYuNzIjVWXc)
+🔗 [GitHub Repository](https://github.com/AkshathaHM/Digital-Art-Protection-AI-Steganography-Blockchain) &nbsp; • &nbsp; 🌐 [Live Demo](https://www.youtube.com/watch?v=ruSdxRyTvug&t=80s)
 
 ---
 
