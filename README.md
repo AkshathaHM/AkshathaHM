@@ -149,6 +149,24 @@ or connect with me on LinkedIn:
 
 ## 🚀 Featured Projects
 
+---
+
+### 🎨 Digital Art Protection Platform
+
+**React.js • Flask • Python • Solidity • Hardhat • IPFS • Web3**
+
+**January 2025**
+
+Developed a digital art protection platform combining AI-based detection, steganography, IPFS, and blockchain technology to help protect digital artwork and verify ownership.
+
+- Implemented artist registration, machine learning-based verification, digital watermarking, and secure blockchain-based ownership records.
+- Built a complete buyer workflow with wallet connectivity and secure digital art downloads.
+- Integrated decentralized file storage using IPFS and smart contracts using Solidity and Hardhat.
+
+🔗 [GitHub Repository](https://github.com/AkshathaHM/Digital-Art-Protection-AI-Steganography-Blockchain) &nbsp; • &nbsp; 🌐 [Live Demo](https://www.youtube.com/watch?v=YYuNzIjVWXc)
+
+---
+
 ### 🛒 SalesSavvy – Modular E-Commerce Platform
 **Spring Boot • React.js • MySQL • JWT • Razorpay**
 
